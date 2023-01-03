@@ -1,0 +1,17 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.oem_unlock_supported=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Wed Jul 8 16:47:53 KST 2020
+ro.bootimage.build.date.utc=1594194473
+ro.bootimage.build.fingerprint=samsung/j2coreltecis/j2corelte:8.1.0/M1AJB/J260FXXU7ATG2:user/release-keys
+persist.sys.usb.config=none
+

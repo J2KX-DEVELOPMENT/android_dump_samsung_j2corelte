@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-J260F_OXM_DBT_OO_0007</version>
+  <model>
+    <name>SM-J260F</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>no</apps>
+    <resources>no</resources>
+    <defaultWorkspace>no</defaultWorkspace>
+    <defaultApplicationOrder>no</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>8</carrierCount>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>01</mnc>
+      <networkName>Telekom.de</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>02</mnc>
+      <networkName>Vodafone.de</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>03</mnc>
+      <codeType>HEX</codeType>
+      <gid>010301</gid>
+      <networkName>o2 DE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>03</mnc>
+      <codeType>HEX</codeType>
+      <gid>010901</gid>
+      <networkName>o2 DE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>03</mnc>
+      <networkName>o2 - de</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>07</mnc>
+      <codeType>HEX</codeType>
+      <gid>010901</gid>
+      <networkName>o2 DE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>07</mnc>
+      <networkName>o2 - de</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>07</mnc>
+      <codeType>HEX</codeType>
+      <gid>010301</gid>
+      <networkName>o2 DE</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

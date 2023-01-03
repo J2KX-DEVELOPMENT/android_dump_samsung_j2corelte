@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-J260F_OXM_SKZ_OO_0009</version>
+  <model>
+    <name>SM-J260F</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0004</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>no</apps>
+    <resources>no</resources>
+    <defaultWorkspace>no</defaultWorkspace>
+    <defaultApplicationOrder>no</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>4</carrierCount>
+    <carrier>
+      <mcc>401</mcc>
+      <mnc>01</mnc>
+      <networkName>Beeline</networkName>
+    </carrier>
+    <carrier>
+      <mcc>401</mcc>
+      <mnc>02</mnc>
+      <networkName>Kcell</networkName>
+    </carrier>
+    <carrier>
+      <mcc>401</mcc>
+      <mnc>07</mnc>
+      <networkName>ALTEL 4G</networkName>
+    </carrier>
+    <carrier>
+      <mcc>401</mcc>
+      <mnc>77</mnc>
+      <networkName>Tele2</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
